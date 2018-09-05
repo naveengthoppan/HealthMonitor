@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>838189059736-5s2toqquona505c48qsh3kbshm61ius6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.838189059736-5s2toqquona505c48qsh3kbshm61ius6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIJbdl8SKZ3AZ1Tl4PAj2tQcs21fDcluw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>838189059736</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thoppan.Health-Monitor</string>
+	<key>PROJECT_ID</key>
+	<string>health-monitor-a2973</string>
+	<key>STORAGE_BUCKET</key>
+	<string>health-monitor-a2973.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:838189059736:ios:fc1b96a4d70168c3</string>
+	<key>DATABASE_URL</key>
+	<string>https://health-monitor-a2973.firebaseio.com</string>
+</dict>
+</plist>
